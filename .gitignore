@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temp extraction artifacts
+_pptx_extract/
+_temp.zip
+*.tmp
+
+# Editor
+.vscode/
+.idea/
+
+# Node (if added later)
+node_modules/
+
+# Python (if added later)
+__pycache__/
+*.pyc
+.env
